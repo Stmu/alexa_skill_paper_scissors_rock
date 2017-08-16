@@ -1,0 +1,22 @@
+{
+  "name": "alexa_skill_paper_scissors_rock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stmu/alexa_skill_paper_scissors_rock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stmu/alexa_skill_paper_scissors_rock/issues"
+  },
+  "homepage": "https://github.com/Stmu/alexa_skill_paper_scissors_rock#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
+}
