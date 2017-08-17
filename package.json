@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Stmu/alexa_skill_paper_scissors_rock#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.12"
+  },
+  "devDependencies": {
+    "serverless": "^1.20.1"
   }
 }
