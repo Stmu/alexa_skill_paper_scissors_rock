@@ -1,4 +1,4 @@
-service: alexa_skill_reindeers
+service: alexa-skill-reindeers
 
 provider:
   name: aws
