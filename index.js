@@ -35,11 +35,11 @@ var languageString = {
             "Sage einfach die Zahl, die zur richtigen Antwort passt. Fangen wir an. ",
             "ANSWER_CORRECT_MESSAGE": "Richtig. ",
             "ANSWER_WRONG_MESSAGE": "Falsch. ",
-            "CORRECT_ANSWER_MESSAGE": "Die richtige Antwort ist %s: %s. ",
+            "CORRECT_ANSWER_MESSAGE": "Die richtige Antwort ist %s %s ",
             "ANSWER_IS_MESSAGE": "Diese Antwort ist ",
-            "TELL_QUESTION_MESSAGE": "Frage %s. %s ",
+            "TELL_QUESTION_MESSAGE": "Frage %s von %s ",
             "GAME_OVER_MESSAGE": "Du hast %s von %s richtig beantwortet. Danke fürs Mitspielen!",
-            "SCORE_IS_MESSAGE": "Dein Ergebnis ist %s. "
+            "SCORE_IS_MESSAGE": "Dein Ergebnis ist %s richtig beantwortete Fragen "
         }
     }
 };
