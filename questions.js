@@ -109,7 +109,7 @@ module.exports = {
             "Wie nennt man das Gefühl, eine gegenwärtige Situation schon einmal erlebt zu haben?": [
                 "Déjà-vu",
                 "Flashback",
-                "Traum",
+                "Arbeit",
                 "Schlafen"
             ]
         },
